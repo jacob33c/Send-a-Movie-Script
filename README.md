@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) 
 Send an entire movie script line by line using this simple and short shell script.
 
-This repo was heavily requested by my TikTok followers because of the following video .
+This repo was heavily requested by my TikTok followers because of the following video https://www.tiktok.com/@jayspanks/video/6859876171530751237?lang=en. 
 # Requirements!
 
   - Macbook/Mac Desktop. This script only works with MacOS because of the built in messages app.
@@ -12,7 +12,7 @@ This repo was heavily requested by my TikTok followers because of the following 
   
 ### Installation
 
-- Clone this repo to your local machine. Open a terminal and copy & paste the below line of code https://www.tiktok.com/@jayspanks/video/6859876171530751237?lang=en. 
+- Clone this repo to your local machine. Open a terminal and copy & paste the below line of code 
  ```sh
 $ git clone https://github.com/jacob33c/Send-a-Movie-Script.git
 ```
