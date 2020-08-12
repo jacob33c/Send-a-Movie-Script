@@ -10,4 +10,4 @@ tell application "Messages"
     send "$targetMessage" to targetBuddy
 end tell
 EOF
-done < text.txt
+done < movieScript.txt
