@@ -17,7 +17,10 @@ This repo was heavily requested by my TikTok followers because of the following 
 $ git clone https://github.com/jacob33c/Send-a-Movie-Script.git
 ```
 - **NOTE**: Google "How to clone a github repository" if you are not familiar with this step.
-
+ ```sh
+$ cd Send-a-Movie-Script/
+$ open autoMsg.sh 
+```
 
 ### Setup
 1. Open autoMsg.sh and change  ```targetBuddyPhone``` to your friend's phone number.
